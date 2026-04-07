@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering student from **Bhopal, India**
+- 🎓 Computer Science  AI and ML Engineering student
 - 🤖 Passionate about **AI/ML** and building real-world software
 - 🔭 Currently working on **Linux Audit** and **Library Management System**
 - 🌱 Learning **Machine Learning, Deep Learning & System Design**
